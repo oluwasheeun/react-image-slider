@@ -17,6 +17,7 @@ function App() {
     setProperty(data.properties[newIndex]);
   };
 
+  
   return (
     <div className='App'>
       <ImageSlide
